@@ -3,9 +3,9 @@
 #third_party/libc++/trunk
 #third_party/libc++abi/trunk
 #third_party/libunwind/trunk
-linux64/clang-format
-linux64/gn
-linux64/.versions
+#linux64/clang-format
+#linux64/gn
+#linux64/.versions
 mac/clang-format
 mac/gn
 mac/.versions
